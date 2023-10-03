@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="CGPA.app/Contents/MacOS/CGPA">
+      <BCSymbolMapName>CGPA.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>CGPA.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/israkkayum/Documents/CSE/3Y1S/Object Oriented Programming-II Lab/CGPA/CGPA/obj/Debug/net7.0-macos/osx-x64/mtouch-symbols.list</SymbolFile>
+      <DSymName>CGPA.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/israkkayum/Documents/CSE/3Y1S/Object Oriented Programming-II Lab/CGPA/CGPA</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

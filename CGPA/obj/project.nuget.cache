@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EXo471DZzXToUBwd89O1o2FBE5RSVtOUCcUNs25e2mljKDrczFSbdwdKE5Tr1JZeLxaFawjxOyIOUmCeHPKdmw==",
+  "success": true,
+  "projectFilePath": "/Users/israkkayum/Documents/CSE/3Y1S/Object Oriented Programming-II Lab/CGPA/CGPA/CGPA.csproj",
+  "expectedPackageFiles": [
+    "/Users/israkkayum/.nuget/packages/microsoft.aspnetcore.app.runtime.osx-x64/7.0.11/microsoft.aspnetcore.app.runtime.osx-x64.7.0.11.nupkg.sha512",
+    "/Users/israkkayum/.nuget/packages/microsoft.netcore.app.runtime.osx-x64/7.0.11/microsoft.netcore.app.runtime.osx-x64.7.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
